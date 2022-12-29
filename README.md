@@ -23,3 +23,5 @@ https://github.com/john-brock/perm-comparator/blob/master/LocalInstallInstructio
 
 ### Questions
 tweet me @_johnbrock or email _johnbrock@outlook.com  
+
+adding notes for the work around the Play Framework - https://github.com/playframework/play1/issues/1353
